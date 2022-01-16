@@ -19,17 +19,17 @@ and I have a few more surprises in addition to what I've already listed here for
 
 Would be nice to develop this application professionally for Bethesda Softworks to be incorporated into 
 the next Creation Kit... Todd Howard, I'm looking at you, good sir... As always, bug reports and suggestions 
-on the forum below or hit me up at bane@savrasbane.com.
+on the forum below or hit me up at exobarf@gmail.com.
 
 Breath and Focus,
 Bane
 
 
-Can YOU think of a feature that Torvus lacks? Shoot me an email at bane@savrasbane.com or leave a post on 
+Can YOU think of a feature that Torvus lacks? Shoot me an email at exobarf@gmail.com or leave a post on 
 the discussion below. I really want to make this program better.
 
 The current version has a custom list editor, searchable lists as well as other bells and whistles. Any bugs 
-post in the discussion threads or send me an email. bane@savrasbane.com
+post in the discussion threads or send me an email. exobarf@gmail.com
 
 Torvus Reloaded is licensed under the GPL, but if you would be so kind as to notify me if you make changes, 
 I'd like to see what they are.
